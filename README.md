@@ -1,7 +1,6 @@
 # Нагрузочные тесты для двух эндпоинтов в jmeter
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/sYYuY5oV5oKuqUHZqJ/giphy.gif" width="100"/>
+<div id="header"> <img src="https://media.giphy.com/media/sYYuY5oV5oKuqUHZqJ/giphy.gif" width="100"/>
 </div>
 
 Написаны нагрузочные тесты на два метода agent app ([документация](https://docs.google.com/document/d/1GkCP0HGfPz9EBk6piCPmGqMBRn3ETeYUcQao-IW9GIc/edit))
